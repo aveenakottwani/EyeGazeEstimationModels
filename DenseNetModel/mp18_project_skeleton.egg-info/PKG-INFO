@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: mp18-project-skeleton
+Version: 0.1
+Summary: Skeleton code for Machine Perception Eye Tracking project.
+Home-page: UNKNOWN
+Author: Seonwook Park
+Author-email: spark@inf.ethz.ch
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
