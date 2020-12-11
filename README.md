@@ -6,7 +6,7 @@ Different Estimation models tried for Eye Gaze Estimation using reference papers
 
  ## 1. Implementation of Paper : [Learning to Find Eye Region Landmarks for Remote Gaze Estimation in Unconstrained Settings](https://ait.ethz.ch/projects/2018/landmarks-gaze/)
     ## Implementation code : 
-   [Code](GazeEstimationModel/GazeEstimation.md)
+   Code path: [Code](GazeEstimationModel/GazeEstimation.md)
 
     ## Dataset:
     Unity eyes dataset: https://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/
@@ -17,6 +17,6 @@ Different Estimation models tried for Eye Gaze Estimation using reference papers
     MPII Gaze dataset : https://www.perceptualui.org/research/datasets/MPIIGaze/
     
     ## Implementation code : 
-   [Code](DenseNetModel/README.md)
+   Code path: [Code](DenseNetModel/README.md)
 
 ---------------------------
