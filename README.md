@@ -1,4 +1,6 @@
 # EyeGazeEstimationModels
+---------------------------
+
 
 Different Estimation models tried for Eye Gaze Estimation using reference papers
 
@@ -8,10 +10,13 @@ Different Estimation models tried for Eye Gaze Estimation using reference papers
 
     ## Dataset:
     Unity eyes dataset: https://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/
- 
+ ---------------------------
+
  ## 2. Implementation of Paper: [Deep Pictorial Gaze Estimation](https://ait.ethz.ch/projects/2018/pictorial-gaze/)
     ### Dataset:
     MPII Gaze dataset : https://www.perceptualui.org/research/datasets/MPIIGaze/
     
     ## Implementation code : 
    [Code](DenseNetModel/README.md)
+
+---------------------------
