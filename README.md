@@ -3,7 +3,7 @@
 Different Estimation models tried for Eye Gaze Estimation using reference papers
 
  ## 1. Implementation of Paper : Learning to Find Eye Region Landmarks for Remote Gaze Estimation in Unconstrained Settings
-    ## Implementation code : [Code](EyeGazeEstimationModels/Gaze Estimations/)
+    ## Implementation code : [Code](Gaze Estimations/)
     ### Dataset:
     Unity eyes dataset: https://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/
  
